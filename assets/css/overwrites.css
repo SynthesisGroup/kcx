@@ -1,0 +1,18 @@
+/* */
+.hidden { display: none !important; }
+.pt-100 { padding-top: 100px; }
+.shaded { background-color: #F1F1F1; }
+.p-0 { padding: 0 !important; }
+
+/* Header */
+header .logo { padding-top: 30px; padding-bottom: 30px; }
+header .sticky-header.sticky .logo { padding-top: 20px; padding-bottom: 20px; }
+
+/* Banner */
+.banner .single_slider { height: auto; min-height: 480px; padding: 100px 20px; }
+.banner .slider_content {}
+.banner .slider_content p { max-width: 100%; }
+
+section { padding: 100px 0; }
+section.slider_section,
+section.banner { padding: 0; }
